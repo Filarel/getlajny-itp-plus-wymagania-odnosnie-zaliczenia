@@ -87,6 +87,8 @@ składowanie danych w pliku tekstowym, wymyślić sobie jakiś separator żeby p
 
 borland fajne gotowe komponenty żeby fajna forma graficzna była, żeby było menu
 
+borlanda mońża pobrać u siminskiego w srodowiskach zintegrowalnych jest c++ builder
+
 oddać na ostatnich zajęciach
 
 */
